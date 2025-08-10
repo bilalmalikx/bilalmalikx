@@ -11,6 +11,8 @@ Hi! I’m **Bilal Siddique** — a passionate **Full Stack Agentic AI Developer*
 - 📚 Graduate of **Presidential Initiative for Artificial Intelligence & Computing (PIAIC)** under Sir Zia Khan
 - 💼 Worked professionally as a Web Developer since **Nov 2023** with a starting salary of **200k PKR**
 - 🤖 Currently specializing in **Agentic AI** — where AI agents autonomously interact, plan, and execute tasks
+- 🌀 Experienced in **React Architecture (Act-Observe cycle)** for building adaptive, event-driven systems
+- 🧪 Skilled in **Playwright** for automated end-to-end testing
 - 🌍 Vision: Merge **Full Stack Web Development** with **Agentic AI** for global-scale innovative solutions
 
 ---
@@ -21,6 +23,8 @@ Hi! I’m **Bilal Siddique** — a passionate **Full Stack Agentic AI Developer*
 - 🔗 **LangChain + LangGraph Orchestration**
 - ⚙️ **FastAPI Backends & AI Agents**
 - 🎨 **Angular 19 + Tailwind CSS Frontends**
+- 🌀 **React Architecture (Act-Observe)** in system design
+- 🧪 **Playwright E2E Testing**
 - 🗄 **Database Management (SQL & NoSQL)**
 - 🤝 **Team Collaboration with Git & GitHub**
 - 📱 **Responsive & Accessible Web Design**
@@ -33,8 +37,10 @@ Hi! I’m **Bilal Siddique** — a passionate **Full Stack Agentic AI Developer*
 |------|--------------|
 | **Frontend** | Angular 19, Tailwind CSS, Bootstrap |
 | **Backend** | FastAPI, REST APIs |
-| **AI & Automation** | LangChain, LangGraph, Multi-Agent Systems | Autogen | CrewAI |
-| **Databases** | PostgreSQL, MySQL, MongoDB | Chromadb | Faisses
+| **AI & Automation** | LangChain, LangGraph, Multi-Agent Systems, Autogen, CrewAI |
+| **Databases** | PostgreSQL, MySQL, MongoDB, ChromaDB, FAISS |
+| **Testing** | Playwright, Jasmine, Jest |
+| **System Design** | React Architecture (Act-Observe cycles), Event-driven systems |
 | **Tools** | Git, GitHub, VS Code, Postman |
 | **Workflow** | Agile, Clean Code, Reusable Components |
 
@@ -43,7 +49,7 @@ Hi! I’m **Bilal Siddique** — a passionate **Full Stack Agentic AI Developer*
 ## 🚀 Current Focus
 
 - **Agentic AI Systems**: Multi-agent orchestration, LLM workflow pipelines, LangGraph integrations
-- **Intelligent Web Applications**: Combining AI backends with interactive, responsive frontends
+- **Reactive System Design**: Implementing Act-Observe loops for adaptive AI behavior
 - **Scalable Architecture**: Clean, maintainable, production-ready systems
 
 ---
@@ -61,4 +67,5 @@ Hi! I’m **Bilal Siddique** — a passionate **Full Stack Agentic AI Developer*
 This project is licensed under the MIT License.
 
 ---
+
 💡 *"Code that combines intelligence with design can change the world."*
